@@ -102,5 +102,3 @@ I am currently building and publishing projects focused on:
 - Email: ethanshackleton@gmail.com
 
 ---
-
-*"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."*
